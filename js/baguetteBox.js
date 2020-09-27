@@ -1,12 +1,3 @@
-/*!
- * baguetteBox.js
- * @author  feimosi
- * @version 1.11.1
- * @url https://github.com/feimosi/baguetteBox.js
- */
-
-/* global define, module */
-
 (function (root, factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
