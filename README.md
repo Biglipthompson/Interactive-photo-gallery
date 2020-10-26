@@ -1,3 +1,2 @@
-# techDegreeProject5
-Treehouse project 5 of an interactive photo gallery.
+Interactive photo gallery project. Displaying my skills with javascript and search filters.
 
